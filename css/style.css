@@ -5,6 +5,9 @@ img{
 }
 h1{
   font-family: 'Codystar', cursive;
+  font-size: 75px;
+  color: #fbad37;
+  text-align: center;
 }
 .img:hover{
   background-color: #c037fb;
