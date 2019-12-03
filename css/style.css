@@ -1,0 +1,16 @@
+img{
+  padding: 75px;
+  width: 25%;
+  transition: .5s ease;
+}
+h1{
+  font-family: 'Codystar', cursive;
+}
+.img:hover{
+  background-color: #c037fb;
+  opacity: 25%;
+}
+.ss:hover{
+  background-color: #fbad37;
+  opacity: 25%;
+}
