@@ -4,16 +4,31 @@ img{
   transition: .5s ease;
 }
 h1{
-  font-family: 'Codystar', cursive;
+  font-family: 'Barrio', cursive;
   font-size: 75px;
   color: #fbad37;
   text-align: center;
 }
+
+h2{
+  margin-left: 75px;
+  font-size: 34px;
+}
+body{
+
+}
 .img:hover{
-  background-color: #c037fb;
-  opacity: 25%;
+  background-color: #38a4eb;
+  -webkit-filter: blur(4px);
+  filter: blur(4px);
+
+}
+a:active{
+  -webkit-filter: saturate(6);
+  filter: saturate(6);
 }
 .ss:hover{
   background-color: #fbad37;
-  opacity: 25%;
+  -webkit-filter: blur(4px);
+  filter: blur(4px);
 }

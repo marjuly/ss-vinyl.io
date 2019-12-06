@@ -1,0 +1,30 @@
+h1{
+  margin-left: 75px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 50px;
+}
+
+img{
+  transition: .5s ease;
+}
+th{
+  font-size: 30px;
+}
+.cv{
+  text-align: right;
+}
+.w{
+  width: 1200px;
+}
+.gal{
+  width: 600px;
+  margin-left: 20px;
+}
+.info{
+    font-size: 28px;
+}
+#main{
+  width: 75%;
+  padding-left: 150px;
+}
