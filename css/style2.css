@@ -1,11 +1,13 @@
 body{
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Be Vietnam', sans-serif;
 }
 h1{
   margin-left: 75px;
   margin-top: 50px;
   margin-bottom: 50px;
   font-size: 50px;
+  font-family: 'Monoton', cursive;
+  color: #fbad37;
 }
 h2{
   margin-left: 50px;
@@ -24,6 +26,7 @@ th{
 }
 h3{
   font-size: 45px;
+  color: rgb(255, 255, 255);
 }
 .cv{
   text-align: right;
@@ -37,6 +40,8 @@ h3{
 }
 .info{
     font-size: 28px;
+    color: rgb(255, 255, 255);
+    background-color: #de3dff;
 }
 #main{
   width: 75%;
