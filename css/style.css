@@ -2,6 +2,7 @@ img{
   padding: 75px;
   width: 25%;
   transition: .5s ease;
+  display: inline;
 }
 h1{
   font-family: 'Barrio', cursive;
@@ -18,7 +19,7 @@ body{
 
 }
 .img:hover{
-  background-color: #38a4eb;
+  background-color: #de3dff;
   -webkit-filter: blur(4px);
   filter: blur(4px);
 

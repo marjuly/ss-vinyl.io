@@ -4,12 +4,23 @@ h1{
   margin-bottom: 50px;
   font-size: 50px;
 }
-
+h2{
+  margin-left: 50px;
+}
+h3:hover{
+  color: #de3dff;
+}
 img{
   transition: .5s ease;
+  display: inline;
 }
 th{
   font-size: 30px;
+  font-style: italic;
+  text-align: left;
+}
+h3{
+  font-size: 45px;
 }
 .cv{
   text-align: right;
@@ -18,7 +29,7 @@ th{
   width: 1200px;
 }
 .gal{
-  width: 600px;
+  height: 600px;
   margin-left: 20px;
 }
 .info{
